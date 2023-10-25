@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'foodevide_api.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'foodevide_test',
+        'NAME': 'foodevide_test1',
         'USER': 'postgres',
         'PASSWORD': '1234',
         'HOST': 'localhost',
